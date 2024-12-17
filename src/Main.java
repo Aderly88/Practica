@@ -12,6 +12,11 @@ public class Main {
             //System.out.println("Valor(" + i + " ): " + num[i]);
         }
 
+        for(int i=0;i<num.length;i++){
+            //System.out.println("Valor(" + i + " ): " + num[i]);
+            //jajajajajaja
+        }
+
 
     }
 }
